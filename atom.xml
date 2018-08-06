@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://taewoongkim2.github.io/"/>
-  <updated>2018-08-06T14:34:47.143Z</updated>
+  <updated>2018-08-06T15:02:22.792Z</updated>
   <id>http://taewoongkim2.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://taewoongkim2.github.io/2018/08/06/first-post/"/>
     <id>http://taewoongkim2.github.io/2018/08/06/first-post/</id>
     <published>2018-08-06T13:09:18.000Z</published>
-    <updated>2018-08-06T14:34:47.143Z</updated>
+    <updated>2018-08-06T15:02:22.792Z</updated>
     
     <content type="html"><![CDATA[<h2 id="지금부터-시작하는-기록"><a href="#지금부터-시작하는-기록" class="headerlink" title="지금부터 시작하는 기록"></a>지금부터 시작하는 기록</h2><p>진정한 개발자가 되기 위한 기록의 시작</p>]]></content>
     
@@ -34,6 +34,8 @@
       
     
     </summary>
+    
+      <category term="일상" scheme="http://taewoongkim2.github.io/categories/%EC%9D%BC%EC%83%81/"/>
     
     
       <category term="일상" scheme="http://taewoongkim2.github.io/tags/%EC%9D%BC%EC%83%81/"/>
